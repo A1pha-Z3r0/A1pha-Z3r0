@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m **Jonathan**, an avid tech enthusiast 💻⚡ who spends way too much time tinkering with random technologies that catch my curiosity. <img src="https://raw.githubusercontent.com/A1pha-Z3r0/A1pha-Z3r0/main/assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">By day, I’m a full-time grad student at Northeastern University, diving deep into bioinformatics 🧬🔍. My ultimate goal? Make a dent at the intersection of computers and biology (preferably genetics), because DNA is just code with cooler syntax.
+I’m **Jonathan**, an avid tech enthusiast 💻⚡ who spends way too much time tinkering with random technologies that catch my curiosity. <img src="https://raw.githubusercontent.com/A1pha-Z3r0/A1pha-Z3r0/main/assets/alternate_illustration.jpeg" min-width="300px" max-width="250px" width="450px" align="right">By day, I’m a full-time grad student at Northeastern University, diving deep into bioinformatics 🧬🔍. My ultimate goal? Make a dent at the intersection of computers and biology (preferably genetics), because DNA is just code with cooler syntax.
 
 I’m all about building things that impact real people in real time, not the kind of stereotypical “research” that collects dust in forgotten journals 📚.
 
