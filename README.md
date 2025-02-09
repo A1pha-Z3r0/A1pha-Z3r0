@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m an avid tech enthusiast 💻⚡ who spends way too much time tinkering with random technologies that catch my curiosity. By day, I’m a full-time grad student at Northeastern University, diving deep into bioinformatics 🧬🔍. My ultimate goal? Make a dent at the intersection of computers and biology (preferably genetics), because DNA is just code with cooler syntax.
+I’m **Jonathan**, an avid tech enthusiast 💻⚡ who spends way too much time tinkering with random technologies that catch my curiosity. By day, I’m a full-time grad student at Northeastern University, diving deep into bioinformatics 🧬🔍. My ultimate goal? Make a dent at the intersection of computers and biology (preferably genetics), because DNA is just code with cooler syntax.
 
 I’m all about building things that impact real people in real time, not the kind of stereotypical “research” that collects dust in forgotten journals 📚.
 
@@ -22,7 +22,7 @@ I’m all about building things that impact real people in real time, not the ki
 
 ### 🛠 **Skills I Picked Up Along the Way** 
 <p align="center">
-  <a href="https://github.com/thenithinbalaji?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
+  <a href="https://github.com/A1pha-Z3r0?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
     <img src="https://skillicons.dev/icons?i=python,fastapi,github,bash,tensorflow,r" alt="skill badges icons" />
   </a>
 </p>
